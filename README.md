@@ -1,6 +1,3 @@
-# Rio-Housing-Scrapper
-A web scraping tool designed to extract housing rental data from the QuintoAndar website, focusing on properties in Rio de Janeiro. The tool captures various property details such as type, address, region, rent amounts, area, and more.
-
 # Rio Housing Scraper
 
 This project is designed to scrape house rental listings from the website [quintoandar.com.br](https://www.quintoandar.com.br) using the Selenium library in Python. The [main script](https://github.com/valeriolonde/Rio-Housing-Scrapper/blob/main/quinto_andar.py) automates the browser to interact with the website and extract detailed information on available rental listings in Rio de Janeiro.
