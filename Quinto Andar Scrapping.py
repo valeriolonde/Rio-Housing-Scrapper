@@ -104,4 +104,4 @@ if __name__ == "__main__":
         execution_count += 1
         print(f"Scrape number {execution_count} in progress...")
         scraper = HouseScraper()
-        scraper.scrape_houses()
+    scraper.scrape_houses()P
